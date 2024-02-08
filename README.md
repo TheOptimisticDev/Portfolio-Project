@@ -1,4 +1,4 @@
-# Mfumu Wealth Mabunda Portfolio Project
+# Mfumu Wealth Mabunda Portfolio
 
 ## Project Overview
 
